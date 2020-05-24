@@ -29,8 +29,8 @@
             "id": "https://toto10571.github.io/gh-pages/get-ready.html",
             "url": "https://toto10571.github.io/gh-pages/get-ready.html",
             "title": "Get Ready 😀",
-            "summary": "😀",
-            "content_html": "<p>😀</p>",
+            "summary": "😀 Made with Visme Presentation Maker",
+            "content_html": "<p>😀</p>\n<script src=\"//my.visme.co/visme-embed.js\"></script>\n<div class=\"visme_d\"    > </div>\n<p style=\"width: 223px !important; border-radius: 3px !important; padding: 3px !important; font-size: 12px !important; font-family: Arial, sans-serif !important; color: #314152 !important; white-space: nowrap !important;\">Made with <a href=\"https://www.visme.co/presentation-software?utm_source=CTA&amp;utm_medium=Embed\" target=\"_blank\" style=\"font-weight: 600 !important; text-decoration: none !important; font-size: 12px !important; font-family: Arial, sans-serif !important; color: #314152 !important; white-space: nowrap !important;\" rel=\"noopener noreferrer\">Visme Presentation Maker</a></p>",
             "image": "https://toto10571.github.io/gh-pages/media/posts/2/logo_new.png",
             "author": {
                 "name": "Armel YMG"
@@ -38,7 +38,7 @@
             "tags": [
             ],
             "date_published": "2020-05-22T22:54:03+00:00",
-            "date_modified": "2020-05-22T22:54:09+00:00"
+            "date_modified": "2020-05-24T04:28:44+00:00"
         },
         {
             "id": "https://toto10571.github.io/gh-pages/my-first-post.html",

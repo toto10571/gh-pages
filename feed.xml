@@ -3,7 +3,7 @@
     <title>Site en construction (Just for fun)</title>
     <link href="https://toto10571.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://toto10571.github.io/gh-pages" />
-    <updated>2020-05-24T04:09:33+00:00</updated>
+    <updated>2020-05-24T04:29:04+00:00</updated>
     <author>
         <name>Armel YMG</name>
     </author>
@@ -39,17 +39,20 @@
         <link href="https://toto10571.github.io/gh-pages/get-ready.html"/>
         <id>https://toto10571.github.io/gh-pages/get-ready.html</id>
 
-        <updated>2020-05-22T22:54:09+00:00</updated>
+        <updated>2020-05-24T04:28:44+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://toto10571.github.io/gh-pages/media/posts/2/logo_new.png" alt="" />
-                    😀
+                    😀 Made with Visme Presentation Maker
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://toto10571.github.io/gh-pages/media/posts/2/logo_new.png" alt="" />
                 <p>😀</p>
+<script src="//my.visme.co/visme-embed.js"></script>
+<div class="visme_d"    > </div>
+<p style="width: 223px !important; border-radius: 3px !important; padding: 3px !important; font-size: 12px !important; font-family: Arial, sans-serif !important; color: #314152 !important; white-space: nowrap !important;">Made with <a href="https://www.visme.co/presentation-software?utm_source=CTA&amp;utm_medium=Embed" target="_blank" style="font-weight: 600 !important; text-decoration: none !important; font-size: 12px !important; font-family: Arial, sans-serif !important; color: #314152 !important; white-space: nowrap !important;" rel="noopener noreferrer">Visme Presentation Maker</a></p>
             ]]>
         </content>
     </entry>
