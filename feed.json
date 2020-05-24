@@ -1,0 +1,59 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Site en construction (Just for fun)",
+    "description": "",
+    "home_page_url": "https://toto10571.github.io/gh-pages",
+    "feed_url": "https://toto10571.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "icon": "https://toto10571.github.io/gh-pages/media/website/aamy_logo.png",
+    "author": {
+        "name": "Armel YMG"
+    },
+    "items": [
+        {
+            "id": "https://toto10571.github.io/gh-pages/logos-simples.html",
+            "url": "https://toto10571.github.io/gh-pages/logos-simples.html",
+            "title": "Learning has never been so much fun",
+            "summary": "Logos simples🇧🇫",
+            "content_html": "<p>Logos simples🇧🇫</p>",
+            "image": "https://toto10571.github.io/gh-pages/media/posts/3/l1.png",
+            "author": {
+                "name": "Armel YMG"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-05-22T22:56:06+00:00",
+            "date_modified": "2020-05-22T22:56:51+00:00"
+        },
+        {
+            "id": "https://toto10571.github.io/gh-pages/get-ready.html",
+            "url": "https://toto10571.github.io/gh-pages/get-ready.html",
+            "title": "Get Ready 😀",
+            "summary": "😀",
+            "content_html": "<p>😀</p>",
+            "image": "https://toto10571.github.io/gh-pages/media/posts/2/logo_new.png",
+            "author": {
+                "name": "Armel YMG"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-05-22T22:54:03+00:00",
+            "date_modified": "2020-05-22T22:54:09+00:00"
+        },
+        {
+            "id": "https://toto10571.github.io/gh-pages/my-first-post.html",
+            "url": "https://toto10571.github.io/gh-pages/my-first-post.html",
+            "title": "Lifestyle👕",
+            "summary": "👕My First Post",
+            "content_html": "<p>👕My First Post</p>",
+            "image": "https://toto10571.github.io/gh-pages/media/posts/1/l4.png",
+            "author": {
+                "name": "Armel YMG"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-05-22T22:09:04+00:00",
+            "date_modified": "2020-05-22T22:58:29+00:00"
+        }
+    ]
+}

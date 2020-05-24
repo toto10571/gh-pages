@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Site en construction (Just for fun)</title>
+    <link href="https://toto10571.github.io/gh-pages/feed.xml" rel="self" />
+    <link href="https://toto10571.github.io/gh-pages" />
+    <updated>2020-05-24T03:04:55+00:00</updated>
+    <author>
+        <name>Armel YMG</name>
+    </author>
+    <id>https://toto10571.github.io/gh-pages</id>
+
+    <entry>
+        <title>Learning has never been so much fun</title>
+        <author>
+            <name>Armel YMG</name>
+        </author>
+        <link href="https://toto10571.github.io/gh-pages/logos-simples.html"/>
+        <id>https://toto10571.github.io/gh-pages/logos-simples.html</id>
+
+        <updated>2020-05-22T22:56:51+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://toto10571.github.io/gh-pages/media/posts/3/l1.png" alt="" />
+                    Logos simples🇧🇫
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://toto10571.github.io/gh-pages/media/posts/3/l1.png" alt="" />
+                <p>Logos simples🇧🇫</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Get Ready 😀</title>
+        <author>
+            <name>Armel YMG</name>
+        </author>
+        <link href="https://toto10571.github.io/gh-pages/get-ready.html"/>
+        <id>https://toto10571.github.io/gh-pages/get-ready.html</id>
+
+        <updated>2020-05-22T22:54:09+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://toto10571.github.io/gh-pages/media/posts/2/logo_new.png" alt="" />
+                    😀
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://toto10571.github.io/gh-pages/media/posts/2/logo_new.png" alt="" />
+                <p>😀</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Lifestyle👕</title>
+        <author>
+            <name>Armel YMG</name>
+        </author>
+        <link href="https://toto10571.github.io/gh-pages/my-first-post.html"/>
+        <id>https://toto10571.github.io/gh-pages/my-first-post.html</id>
+
+        <updated>2020-05-22T22:58:29+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://toto10571.github.io/gh-pages/media/posts/1/l4.png" alt="" />
+                    👕My First Post
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://toto10571.github.io/gh-pages/media/posts/1/l4.png" alt="" />
+                <p>👕My First Post</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

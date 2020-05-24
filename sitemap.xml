@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://toto10571.github.io/gh-pages/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://toto10571.github.io/gh-pages/</loc>
+</url>
+<url>
+<loc>https://toto10571.github.io/gh-pages/get-ready.html</loc>
+<lastmod>2020-05-22T22:54:09+00:00</lastmod>
+<image:image>
+<image:loc>https://toto10571.github.io/gh-pages/media\posts\2/logo_new.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://toto10571.github.io/gh-pages/logos-simples.html</loc>
+<lastmod>2020-05-22T22:56:51+00:00</lastmod>
+<image:image>
+<image:loc>https://toto10571.github.io/gh-pages/media\posts\3/l1.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://toto10571.github.io/gh-pages/my-first-post.html</loc>
+<lastmod>2020-05-22T22:58:29+00:00</lastmod>
+<image:image>
+<image:loc>https://toto10571.github.io/gh-pages/media\posts\1/l4.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
